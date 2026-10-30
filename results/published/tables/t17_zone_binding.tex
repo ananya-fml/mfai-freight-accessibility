@@ -1,0 +1,20 @@
+\begin{table}[htbp]
+\centering
+\small
+\caption{Enterprises in zones, by the mode binding within the zone.}
+\label{tab:t17_zone_binding}
+\begin{tabular}{llllll}
+\toprule
+City & ICD & Rail & Major road & City-level binding mode & Agreement \\
+\midrule
+Kochi & 2,178 (92\%) & 0 (0\%) & 178 (8\%) & ICD & yes \\
+Patna & 659 (76\%) & 0 (0\%) & 208 (24\%) & ICD & yes \\
+Varanasi & 0 (0\%) & 0 (0\%) & 566 (100\%) & Major road & no \\
+Kolkata & 0 (0\%) & 0 (0\%) & 2,291 (100\%) & Major road & no \\
+Indore & 393 (12\%) & 412 (12\%) & 2,509 (76\%) & ICD & no \\
+\bottomrule
+\end{tabular}
+\begin{tablenotes}\footnotesize
+\item Four of five cities agree with the city-level binding constraint. Indore does not: its ICD access is uniformly poor and contributes 13\% of within-city variance while road contributes 70\%, so the composite discriminates on road and the zones it identifies are road-poor locations in a city whose binding constraint is ICD. A composite index can identify the wrong targets even where the level analysis identifies the right constraint.
+\end{tablenotes}
+\end{table}

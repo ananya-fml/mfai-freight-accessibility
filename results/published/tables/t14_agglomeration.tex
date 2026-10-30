@@ -1,0 +1,19 @@
+\begin{table}[htbp]
+\centering
+\small
+\caption{Enterprise count response to access, by city (coefficient per within-city standard deviation).}
+\label{tab:t14_agglomeration}
+\begin{tabular}{lllllll}
+\toprule
+City & Cells & MFAI & Major road & Rail goods shed & IWT terminal & ICD \\
+\midrule
+Patna & 685 & 0.171 & 0.874*** & -0.298* & 0.589** & -0.284* \\
+Indore & 707 & 0.778*** & 0.633*** & 0.762*** & — & 0.359** \\
+Varanasi & 790 & 0.416*** & 0.319*** & 0.422*** & -0.413** & -0.109 \\
+Kochi & 1,464 & 0.545*** & 0.329*** & 0.240*** & 0.102 & 0.375*** \\
+\bottomrule
+\end{tabular}
+\begin{tablenotes}\footnotesize
+\item Negative binomial, controlling for log built-up surface and log distance from centre, standard errors clustered on 5 km spatial blocks. $^{*}p<0.05$, $^{**}p<0.01$, $^{***}p<0.001$. Kolkata is excluded: 169 cells at 1 km and 43 at 2 km, insufficient spatial variation, non-convergent at the coarser resolution. Patna is estimated at 60 km and Kochi at 45 km; Patna's ICD coefficient is $+0.033$ ($p=0.62$) within 30 km. Road access is endogenous, so a positive road coefficient is expected and uninformative. Signs differ across cities for every terminal mode, so pooled estimates are not reported.
+\end{tablenotes}
+\end{table}

@@ -1,0 +1,20 @@
+\begin{table}[htbp]
+\centering
+\small
+\caption{Routable network construction diagnostics.}
+\label{tab:s6_network}
+\begin{tabular}{lllrrlrrr}
+\toprule
+City & Nodes & Edges & Giant component (\%) & Major road segments & Major road km & Segments reached (\%) & Connector median (m) & Connector p95 (m) \\
+\midrule
+Patna & 481,983 & 492,411 & 94.800000 & 1569 & 1,294 & 94.300000 & 12.000000 & 113.400000 \\
+Indore & 579,983 & 605,608 & 98.400000 & 1824 & 1,488 & 95.400000 & 11.400000 & 53.200000 \\
+Varanasi & 830,183 & 850,895 & 98.900000 & 830 & 651 & 95.800000 & 12.200000 & 52.100000 \\
+Kochi & 792,378 & 808,394 & 97.500000 & 3369 & 2,001 & 94.400000 & 12.300000 & 97.900000 \\
+Kolkata & 231,873 & 246,858 & 98.300000 & 1909 & 419 & 91.100000 & 10.600000 & 29.800000 \\
+\bottomrule
+\end{tabular}
+\begin{tablenotes}\footnotesize
+\item The graph is built over all vertices of the noded edge set, densified to a maximum 25 m spacing. Connector distance is from the enterprise to its snapped graph node and enters every terminal distance.
+\end{tablenotes}
+\end{table}

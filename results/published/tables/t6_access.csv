@@ -1,0 +1,6 @@
+City,$n$,Major road,Rail goods shed,IWT terminal,ICD,MFAI,Binding mode,Margin
+Patna,"12,807",0.841,0.776,0.845,0.607,0.728,ICD,0.169
+Indore,"48,884",0.852,0.898,0.05,0.702,0.809,ICD,0.15
+Varanasi,"9,289",0.779,0.893,0.879,0.792,0.814,Major road,0.013
+Kochi,"27,759",0.879,0.841,0.83,0.786,0.83,ICD,0.055
+Kolkata,"24,852",0.891,0.899,0.907,0.892,0.893,Major road,0.001

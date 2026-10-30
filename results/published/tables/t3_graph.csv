@@ -1,0 +1,7 @@
+Diagnostic,Endpoint-only graph,Vertex-level graph
+"Connector distance, median (m)",35.7,12.1
+"Connector distance, 95th percentile (m)",220.7,59.5
+"Spearman (connector, built-up density)",−0.220,−0.139
+"Road distance / straight-line, median",1.67,1.33
+"Rail median, change",—,< 0.3%
+"ICD median, change",—,< 0.3%

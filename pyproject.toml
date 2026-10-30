@@ -1,0 +1,34 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mfai"
+version = "1.0.0"
+description = "Multimodal Freight Accessibility Index for manufacturing MSMEs in Indian cities"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { file = "LICENSE" }
+authors = [{ name = "Ananya Saha" }]
+dependencies = [
+    "numpy>=1.24",
+    "pandas>=2.0",
+    "scipy>=1.10",
+    "geopandas>=0.14",
+    "shapely>=2.0",
+    "pyproj>=3.5",
+    "networkx>=3.0",
+    "rasterio>=1.3",
+    "rasterstats>=0.19",
+    "hdbscan>=0.8.33",
+    "statsmodels>=0.14",
+    "matplotlib>=3.7",
+    "contextily>=1.4",
+    "diptest>=0.8",
+]
+
+[project.optional-dependencies]
+test = ["pytest>=7"]
+
+[tool.setuptools.packages.find]
+where = ["src"]

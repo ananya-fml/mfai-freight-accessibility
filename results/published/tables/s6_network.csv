@@ -1,0 +1,6 @@
+City,Nodes,Edges,Giant component (\%),Major road segments,Major road km,Segments reached (\%),Connector median (m),Connector p95 (m)
+Patna,"481,983","492,411",94.8,1569,"1,294",94.3,12.0,113.4
+Indore,"579,983","605,608",98.4,1824,"1,488",95.4,11.4,53.2
+Varanasi,"830,183","850,895",98.9,830,651,95.8,12.2,52.1
+Kochi,"792,378","808,394",97.5,3369,"2,001",94.4,12.3,97.9
+Kolkata,"231,873","246,858",98.3,1909,419,91.1,10.6,29.8

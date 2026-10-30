@@ -1,0 +1,74 @@
+City,Class,Name,Lat,Lon,Status,Source
+Indore,ICD / CFS,CONCOR MMLP tihi,22.61756,75.73319,active,
+Indore,ICD / CFS,ICD dhannad,22.66139,75.66808,active,
+Indore,ICD / CFS,ICD kheda,22.63283,75.66286,active,
+Indore,ICD / CFS,ICD pithampur new,22.60292,75.63944,upcoming,
+Indore,ICD / CFS,MMLP Indore,22.61417,75.63111,upcoming,
+Indore,Rail goods shed,CRL choral gods shed,22.44972,75.94536,,gatishakti-github
+Indore,Rail goods shed,INDM indore junction,22.71741,75.86834,,gatishakti-github
+Indore,Rail goods shed,LMNR lakshmibai nagar rail goods shed,22.7466,75.8556,,gatishakti-github
+Indore,Rail goods shed,MGG mangliya gaon goods shed,22.8107,75.91474,,gatishakti-github
+Indore,Rail goods shed,TIHI tihi goods shed,22.61886,75.73422,,gatishakti-github
+Kochi,ICD / CFS,MIV logistics CFS,9.98661,76.25689,,
+Kochi,ICD / CFS,asian terminals CFS,9.95319,76.27189,,
+Kochi,ICD / CFS,central warehousing corporation CWC CFS,9.99194,76.25447,,
+Kochi,ICD / CFS,cochin international CFS CICFS,10.07008,76.29489,,
+Kochi,ICD / CFS,cochin port authority CFS,9.96617,76.27261,,
+Kochi,ICD / CFS,falcon CFS,10.05967,76.31361,,
+Kochi,ICD / CFS,gateway distriparks kerala GDKL CFS,9.98783,76.25586,,
+Kochi,ICD / CFS,vallarpadam  CONCOR CFS,9.99678,76.2515,,
+Kochi,IWT terminal,CEPZ kakkanad infopark terminal,9.99486,76.34561,,IWAI
+Kochi,IWT terminal,FACT ambalamughal cargo jetty,9.95794,76.362,,FACT
+Kochi,IWT terminal,Q4 fertiliser berth cargo jetty,9.96844,76.27458,,cochin port authority
+Kochi,IWT terminal,aluva IWT terminal,10.10411,76.35117,,IWAI
+Kochi,IWT terminal,bolgatty island Ro Ro terminal,9.98478,76.27181,,IWAI
+Kochi,IWT terminal,kalamasseri kinfra hi-tech park industrial jetty,10.05875,76.3495,,IWAI
+Kochi,IWT terminal,maradu kochi IWT terminal,9.9265,76.32072,,IWAI
+Kochi,IWT terminal,vallarpadam island bulk and liquid barge jetty expansion,10.00133,76.24947,,cochin port authority
+Kochi,IWT terminal,willingdon island Ro Ro terminal,9.96503,76.26828,,IWAI
+Kochi,Rail goods shed,aluva goods shed AWY,10.10792,76.35627,,gatishakti-github
+Kochi,Rail goods shed,angamaly goods shed AFK,10.18361,76.37806,,gatishakti-github
+Kochi,Rail goods shed,cochin harbour termius goods shed CHTS,9.95788,76.26835,,gatishakti-github
+Kochi,Rail goods shed,cochin yard goods shed CHY,9.95586,76.26731,,indian railways
+Kochi,Rail goods shed,ernakulam jn. Goods shed ERS,9.96889,76.29167,,gatishakti-github
+Kochi,Rail goods shed,ernakulam marshalling yard ERM,9.98052,76.30658,,gatishakti-github
+Kochi,Rail goods shed,idapalli goods shed IPL,10.03444,76.29889,,gatishakti-github
+Kochi,Rail goods shed,irinbanam goods shed IPN,9.97333,76.34528,,gatishakti-github
+Kochi,Rail goods shed,kalamasseri goods shed KLMR,10.06222,76.32722,,gatishakti-github
+Kochi,Rail goods shed,mattan cheri halt goods shed MTNC,9.94,76.27083,,gatishakti-github
+Kochi,Rail goods shed,vallarpadam goods shed VPDP,9.98755,76.25717,,gatishakti-github
+Kolkata,ICD / CFS,CWC mominpore CFS,22.5262,88.3218,,
+Kolkata,ICD / CFS,balmer lawrie CFS,22.5291,88.3128,,
+Kolkata,ICD / CFS,majerhat CONCOR ICD,22.5186,88.3242,,
+Kolkata,ICD / CFS,shalimar CONCOR DCT,22.5583,88.3248,,
+Kolkata,ICD / CFS,sonai hub century CFS,22.5324,88.3071,,
+Kolkata,ICD / CFS,transworld terminals CFS garden reach,22.5412,88.2985,,
+Kolkata,IWT terminal,BISN jetty,22.54662,88.3061,,WRIS data from github
+Kolkata,IWT terminal,CIWTC lower jetty,22.58574,88.34913,,WRIS data from github
+Kolkata,IWT terminal,garden reach jetty,22.54847,88.29858,,WRIS data from github
+Kolkata,IWT terminal,new CIWTC jetty,22.54761,88.31623,,WRIS data from github
+Kolkata,IWT terminal,shipping jetty,22.57273,88.34407,,WRIS data from github
+Kolkata,Rail goods shed,CONCOR majherhat container terminal,22.5186,88.3242,,indian railways
+Kolkata,Rail goods shed,chitpur goods shed,22.60082,88.39241,,gatishakti-github
+Kolkata,Rail goods shed,cossipore road freight terminal,22.61686,88.37506,,gatishakti-github
+Kolkata,Rail goods shed,kidderpore east freight terminal,22.53558,88.31594,,gatishakti-github
+Kolkata,Rail goods shed,sonai private freight terminal,22.5358,88.3045,,indian railways
+Patna,ICD / CFS,Bihta ICD,25.55778,84.87667,,
+Patna,IWT terminal,digha ro-pax freight ferry terminal,25.6518,85.0991,,PIB
+Patna,IWT terminal,gaighat IWT terminal,25.6171,85.1904,,IWAI
+Patna,IWT terminal,gaighat expansion ro-pax freight ferry terminal,25.6175,85.1912,,PIB
+Patna,IWT terminal,kalughat intermodal terminal,25.6631,84.9782,,PIB
+Patna,IWT terminal,patna IWT terminal,25.61263,85.20506,,WRIS data from github
+Patna,IWT terminal,semaria IWT terminal,25.37668,86.00341,,WRIS data from github
+Patna,Rail goods shed,bihta private freight terminal / ICD Bihta,25.5577,84.8766,,google maps
+Patna,Rail goods shed,danapur goods shed,25.6206,85.0493,,google maps
+Patna,Rail goods shed,gonpura goods shed,25.5414,85.0485,,google maps
+Varanasi,ICD / CFS,varanasi ICD,25.2519,83.028,,
+Varanasi,IWT terminal,kaithi IWT terminal,25.48571,83.15213,,WRIS data from github
+Varanasi,IWT terminal,rajghat floating terminal,25.3167,83.0104,,google maps
+Varanasi,IWT terminal,varanasi freight village  MMLP ramnagar,25.2492,83.0321,,google maps
+Varanasi,IWT terminal,varanasi multi modal terminal,25.2519,83.028,,google maps
+Varanasi,Rail goods shed,chaukhandi CHH,25.33982,82.83482,,gatishakti-github
+Varanasi,Rail goods shed,kashi goods shed KEI,25.32736,83.03157,,gatishakti-github
+Varanasi,Rail goods shed,shivpur SOP,25.35559,82.9474,,gatishakti-github
+Varanasi,Rail goods shed,varanasi junc BSB,25.32769,82.98648,,gatishakti-github

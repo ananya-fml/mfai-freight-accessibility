@@ -1,0 +1,6 @@
+City,ICD,Rail,Major road,City-level binding mode,Agreement
+Kochi,"2,178 (92\%)",0 (0\%),178 (8\%),ICD,yes
+Patna,659 (76\%),0 (0\%),208 (24\%),ICD,yes
+Varanasi,0 (0\%),0 (0\%),566 (100\%),Major road,no
+Kolkata,0 (0\%),0 (0\%),"2,291 (100\%)",Major road,no
+Indore,393 (12\%),412 (12\%),"2,509 (76\%)",ICD,no

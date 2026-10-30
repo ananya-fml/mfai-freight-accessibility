@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "MFAI: Multimodal Freight Accessibility Index (code)"
+authors:
+  - family-names: Saha
+    given-names: Ananya
+  - family-names: Mishra
+    given-names: Suprava
+  - family-names: Pani
+    given-names: Agnivesh
+version: 1.0.0
+license: MIT
+preferred-citation:
+  type: conference-paper
+  title: "Multimodal Freight Accessibility and the Limits of Spatial Targeting for Locational Disadvantage: Manufacturing Enterprises in Five Indian Cities"
+  authors:
+    - family-names: Saha
+      given-names: Ananya
+    - family-names: Mishra
+      given-names: Suprava
+    - family-names: Pani
+      given-names: Agnivesh
+  conference:
+    name: "Transportation Research Board 106th Annual Meeting"
+  year: 2027

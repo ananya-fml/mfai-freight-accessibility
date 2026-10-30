@@ -1,0 +1,5 @@
+Mode,$T_m$,Basis
+Major road,2 km,UDPFI/URDPFI: arterial minimum intersection spacing 500 m; sub-arterial spacing 0.5 km (CBD) to 3–5 km (residential). Half the mean spacing implies a catchment edge of 1–2.5 km.
+ICD,50 km,"CBIC Circular No. 50/2020-Customs, para 4.1.4: no greenfield ICD within 100 km of an existing ICD. Statutory 100 km spacing implies a ~50 km catchment under nearest-facility assignment."
+Rail goods shed,50 km,Weakest anchor. Intermodal first-mile drayage is conventionally 50–100 km. No Indian Railways or CONCOR catchment norm identified; stated as an assumption.
+IWT terminal,50 km,By analogy with ICD. No statutory anchor: the CBIC circular relaxes distance rules for waterway-linked facilities.

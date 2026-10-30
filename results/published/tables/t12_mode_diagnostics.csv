@@ -1,0 +1,20 @@
+City,Mode,Relative IQR (\%),vs NTL,vs built-up,vs distance,vs NTL | dist
+Patna,Major road,25.6,0.186,0.079,-0.085,0.246
+Patna,Rail goods shed,16.1,0.255,0.091,-0.261,0.049
+Patna,IWT terminal,13.0,0.604,0.484,-0.553,0.293
+Patna,ICD,13.0,0.009,-0.066,-0.049,-0.078
+Indore,Major road,21.8,0.322,0.017,-0.254,0.205
+Indore,Rail goods shed,7.9,0.732,0.443,-0.816,0.287
+Indore,ICD,8.4,0.017,0.154,-0.321,-0.376
+Varanasi,Major road,29.5,0.365,0.211,-0.249,0.365
+Varanasi,Rail goods shed,8.0,0.68,0.537,-0.619,0.36
+Varanasi,IWT terminal,11.9,0.897,0.777,-0.965,0.06
+Varanasi,ICD,11.9,0.677,0.616,-0.763,-0.115
+Kochi,Major road,20.6,0.026,0.066,0.034,0.11
+Kochi,Rail goods shed,20.8,0.78,0.683,-0.743,0.411
+Kochi,IWT terminal,19.5,0.756,0.626,-0.803,0.215
+Kochi,ICD,24.2,0.771,0.67,-0.843,0.165
+Kolkata,Major road,16.1,0.382,0.061,-0.471,0.043
+Kolkata,Rail goods shed,4.5,0.163,0.232,-0.192,0.026
+Kolkata,IWT terminal,9.2,0.691,0.364,-0.935,-0.083
+Kolkata,ICD,5.6,0.188,0.178,-0.309,-0.075

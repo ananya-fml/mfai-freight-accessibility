@@ -1,0 +1,16 @@
+# Data are not redistributed (see data/README.md)
+data/*
+!data/README.md
+*.gpkg
+*.tif
+*_msme_nearest.csv
+
+# Regenerated outputs; only the published reference tables are versioned
+results/*
+!results/published/
+
+__pycache__/
+*.egg-info/
+.ipynb_checkpoints/
+.pytest_cache/
+.DS_Store

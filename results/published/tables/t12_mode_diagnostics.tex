@@ -1,0 +1,34 @@
+\begin{table}[htbp]
+\centering
+\small
+\caption{Mode-level diagnostics.}
+\label{tab:t12_mode_diagnostics}
+\begin{tabular}{llrrrrr}
+\toprule
+City & Mode & Relative IQR (\%) & vs NTL & vs built-up & vs distance & vs NTL | dist \\
+\midrule
+Patna & Major road & 25.600000 & 0.186000 & 0.079000 & -0.085000 & 0.246000 \\
+Patna & Rail goods shed & 16.100000 & 0.255000 & 0.091000 & -0.261000 & 0.049000 \\
+Patna & IWT terminal & 13.000000 & 0.604000 & 0.484000 & -0.553000 & 0.293000 \\
+Patna & ICD & 13.000000 & 0.009000 & -0.066000 & -0.049000 & -0.078000 \\
+Indore & Major road & 21.800000 & 0.322000 & 0.017000 & -0.254000 & 0.205000 \\
+Indore & Rail goods shed & 7.900000 & 0.732000 & 0.443000 & -0.816000 & 0.287000 \\
+Indore & ICD & 8.400000 & 0.017000 & 0.154000 & -0.321000 & -0.376000 \\
+Varanasi & Major road & 29.500000 & 0.365000 & 0.211000 & -0.249000 & 0.365000 \\
+Varanasi & Rail goods shed & 8.000000 & 0.680000 & 0.537000 & -0.619000 & 0.360000 \\
+Varanasi & IWT terminal & 11.900000 & 0.897000 & 0.777000 & -0.965000 & 0.060000 \\
+Varanasi & ICD & 11.900000 & 0.677000 & 0.616000 & -0.763000 & -0.115000 \\
+Kochi & Major road & 20.600000 & 0.026000 & 0.066000 & 0.034000 & 0.110000 \\
+Kochi & Rail goods shed & 20.800000 & 0.780000 & 0.683000 & -0.743000 & 0.411000 \\
+Kochi & IWT terminal & 19.500000 & 0.756000 & 0.626000 & -0.803000 & 0.215000 \\
+Kochi & ICD & 24.200000 & 0.771000 & 0.670000 & -0.843000 & 0.165000 \\
+Kolkata & Major road & 16.100000 & 0.382000 & 0.061000 & -0.471000 & 0.043000 \\
+Kolkata & Rail goods shed & 4.500000 & 0.163000 & 0.232000 & -0.192000 & 0.026000 \\
+Kolkata & IWT terminal & 9.200000 & 0.691000 & 0.364000 & -0.935000 & -0.083000 \\
+Kolkata & ICD & 5.600000 & 0.188000 & 0.178000 & -0.309000 & -0.075000 \\
+\bottomrule
+\end{tabular}
+\begin{tablenotes}\footnotesize
+\item Relative IQR is the interquartile range as a share of the mean. A near-zero correlation on a predictor with little spread is range restriction, not independence: Kolkata's ICD access varies over 5.6\% of its mean and its low correlation must not be read alongside Patna's. Patna's ICD access has adequate spread and is independent of all three covariates, while its waterway access — with identical spread — is not.
+\end{tablenotes}
+\end{table}

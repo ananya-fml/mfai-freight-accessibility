@@ -1,0 +1,20 @@
+\begin{table}[htbp]
+\centering
+\small
+\caption{Zone structure of the lowest accessibility decile.}
+\label{tab:t16_zones}
+\begin{tabular}{lrrrrrrr}
+\toprule
+City & Zones & In zones (\%) & In zones < 25 km$^2$ (\%) & Compact zones & Largest zone (km$^2$) & Median zone (km$^2$) & In zones < 25 km$^2$, per-city optimum (\%) \\
+\midrule
+Kolkata & 14 & 92.000000 & 92.000000 & 14 & 6.000000 & 1.600000 & 96.100000 \\
+Indore & 18 & 67.700000 & 51.100000 & 14 & 368.900000 & 6.060000 & 25.500000 \\
+Varanasi & 5 & 60.900000 & 25.900000 & 2 & 143.800000 & 48.950000 & 25.900000 \\
+Patna & 8 & 67.200000 & 15.800000 & 3 & 257.800000 & 56.110000 & 16.700000 \\
+Kochi & 5 & 84.800000 & 0.000000 & 0 & 661.900000 & 60.880000 & 9.600000 \\
+\bottomrule
+\end{tabular}
+\begin{tablenotes}\footnotesize
+\item HDBSCAN on unique coordinates, $\textit{min\_cluster\_size}=20$, $\textit{min\_samples}=10$; the final column uses each city's relative-validity optimum. The in-zone share alone conflates many compact zones with one diffuse region: Kochi's 84.8\% comprises 68.5\% inside a single 662 km$^2$ zone of 17.7 km radius, which is not an addressable site. Indore is the only city whose compact-zone share is parameter-sensitive and should be read as a range.
+\end{tablenotes}
+\end{table}

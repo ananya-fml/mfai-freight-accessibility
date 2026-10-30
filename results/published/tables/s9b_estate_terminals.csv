@@ -1,0 +1,12 @@
+City,Mode,$n$,Median km to estate,Min km,Within 2 km
+Patna,Rail,3,3.32,1.47,1
+Patna,IWT,6,2.25,0.05,2
+Patna,ICD,1,1.48,1.48,1
+Indore,Rail,5,0.26,0.1,4
+Indore,ICD,5,3.28,0.26,2
+Varanasi,Rail,4,1.72,0.25,2
+Varanasi,IWT,4,1.97,1.81,3
+Varanasi,ICD,1,1.95,1.95,1
+Kolkata,Rail,5,0.15,0.0,5
+Kolkata,IWT,5,0.01,0.0,5
+Kolkata,ICD,6,0.12,0.0,6

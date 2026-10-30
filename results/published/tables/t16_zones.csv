@@ -1,0 +1,6 @@
+City,Zones,In zones (\%),In zones < 25 km$^2$ (\%),Compact zones,Largest zone (km$^2$),Median zone (km$^2$),"In zones < 25 km$^2$, per-city optimum (\%)"
+Kolkata,14,92.0,92.0,14,6.0,1.6,96.1
+Indore,18,67.7,51.1,14,368.9,6.06,25.5
+Varanasi,5,60.9,25.9,2,143.8,48.95,25.9
+Patna,8,67.2,15.8,3,257.8,56.11,16.7
+Kochi,5,84.8,0.0,0,661.9,60.88,9.6

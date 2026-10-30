@@ -1,0 +1,20 @@
+\begin{table}[htbp]
+\centering
+\small
+\caption{Distribution of MFAI by city.}
+\label{tab:t8_distribution}
+\begin{tabular}{llrrrrrrrrrrl}
+\toprule
+City & $n$ & Mean & SD & P10 & Median & P90 & IQR & P90/P10 & CV & Skew & Dip & Dip $p$ \\
+\midrule
+Patna & 12,807 & 0.728000 & 0.097000 & 0.623000 & 0.741000 & 0.831000 & 0.085000 & 1.334000 & 0.133000 & -1.340000 & 0.004900 & 0.0399 \\
+Indore & 48,884 & 0.809000 & 0.071000 & 0.722000 & 0.828000 & 0.875000 & 0.077000 & 1.212000 & 0.088000 & -2.000000 & 0.002800 & 0.0139 \\
+Varanasi & 9,289 & 0.814000 & 0.094000 & 0.684000 & 0.838000 & 0.908000 & 0.109000 & 1.327000 & 0.116000 & -1.470000 & 0.011100 & 0 \\
+Kochi & 27,759 & 0.830000 & 0.097000 & 0.686000 & 0.853000 & 0.935000 & 0.134000 & 1.362000 & 0.117000 & -0.920000 & 0.004500 & 0.000638 \\
+Kolkata & 24,852 & 0.893000 & 0.048000 & 0.824000 & 0.908000 & 0.936000 & 0.059000 & 1.136000 & 0.054000 & -1.310000 & 0.002400 & 0.531 \\
+\bottomrule
+\end{tabular}
+\begin{tablenotes}\footnotesize
+\item Hartigan's dip test rejects unimodality in four of five cities, but at these sample sizes it rejects on slight departures and the dip statistic is the informative quantity. Patna has a higher dip statistic than Kochi with a much larger $p$-value, purely because its sample is less than half the size. Every city is unimodal at kernel bandwidths of 0.5 and above (Figure S1).
+\end{tablenotes}
+\end{table}
