@@ -106,7 +106,7 @@ results/published/ the tables as published, for comparison
 ## Running it
 
 ```bash
-git clone https://github.com/<user>/mfai-freight-accessibility
+git clone https://github.com/ananya-fml/mfai-freight-accessibility
 cd mfai-freight-accessibility
 pip install -e .
 
